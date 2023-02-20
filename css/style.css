@@ -1,0 +1,83 @@
+body{
+    padding-top: 50px;
+    margin: 0  ;
+    text-align: center;
+    background-color: #e4f9f5;
+   
+}
+
+div{
+   
+}
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    margin-top: 50px;
+    color: #66BFBF;
+    line-height: 1;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+   
+}
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align-last: left;
+    line-height: 2;
+}
+
+.top-cloud{
+    position: relative;
+    left: 220px;
+}
+.bot-cloud{
+    position: absolute;
+    margin-top: 20px;
+}
+
+.code{
+    float: left;
+    margin-right: 40px;
+}
+.pizza{
+    float: right;
+    width: 25%;
+    margin-left: 40px;
+}
+
+
+    .btn {
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        text-shadow: 0px 5px 4px #d918d9;
+        font-family: Arial;
+        color: #fffcff;
+        font-size: 25px;
+        background: #1396ed;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        line-height: 3;
+  
+}
+.btn:hover {
+    background: #11999E;
+    text-decoration: none;
+  }
